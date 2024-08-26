@@ -1,3 +1,6 @@
+https://public.tableau.com/app/profile/md.wasim.akhtar3999/viz/PoliceEncounterCaseStudy_17246687278660/Sheet1
+
+
 Used the data set of Police Encounters and create an interactive analysis of the various trends and
 patterns. The Data set contains the list of encounters performed by US Law Enforcements in the year
 2015 and 2016. Be sure to involve the following actions.
@@ -16,3 +19,4 @@ justified or not. How best can you visually represent different parameters you h
 considered so as to develop effective communication.
 5. Rank the different states that has been responsible for custodial deaths and showcase the
 top 5 states that are responsible in each state.
+
