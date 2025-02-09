@@ -5,8 +5,8 @@ I worked with a dataset of police encounters from 2015 and 2016, conducting an i
 
 To provide a comprehensive understanding, I developed an overview dashboard that highlights key insights, including:
 
-1.The total number of encounters across different locations.<br>
-2.Classification of encounters by type.<br>
+1. The total number of encounters across different locations.<br>
+2. Classification of encounters by type.<br>
 3. Demographic breakdowns such as Race, Age Group, and Male-to-Female ratio.<br>
 4. The Top 5 and Bottom 5 agencies involved in encounters.<br>
 5. Additionally, I incorporated interactive options to allow users to explore month-wise trends and analyze state-specific insights.<br>
