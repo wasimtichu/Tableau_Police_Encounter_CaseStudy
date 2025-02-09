@@ -1,22 +1,16 @@
 https://public.tableau.com/app/profile/md.wasim.akhtar3999/viz/PoliceEncounterCaseStudy_17246687278660/Sheet1
 
 
-Used the data set of Police Encounters and create an interactive analysis of the various trends and
-patterns. The Data set contains the list of encounters performed by US Law Enforcements in the year
-2015 and 2016. Be sure to involve the following actions.
-1. Without manually combining the two excels, prepare your dataset to analyse both the years
-on a single workbook.
-2. Create a complete overview dashboard to briefly describe the number of encounters that
-has occurred over different locations, Classification, Race, Age group, Male-to-female ratio,
-Top 5 Agencies & Bottom 5 agencies involved in the encounters.
-3. Create an option to select and see month-wise reports for the overview. Also provide an
-option to find the insight from each individual state.
-4. Assume that there is a public outrage that is blaming the police department of being racist
-(specially towards black, Hispanic and Arab-American) when it comes to encounters and are
-killing them unnecessarily. This dataset is provided to you by the untampered police
-database. As an Analyst, arrive at a data driven logical investigation to see if the outrage is
-justified or not. How best can you visually represent different parameters you have
-considered so as to develop effective communication.
-5. Rank the different states that has been responsible for custodial deaths and showcase the
-top 5 states that are responsible in each state.
+I worked with a dataset of police encounters from 2015 and 2016, conducting an interactive analysis to uncover various trends and patterns. Instead of manually combining the two Excel files, I prepared the dataset in a way that allowed seamless analysis of both years within a single workbook.
 
+To provide a comprehensive understanding, I developed an overview dashboard that highlights key insights, including:
+
+1.The total number of encounters across different locations.
+2.Classification of encounters by type.
+3. Demographic breakdowns such as Race, Age Group, and Male-to-Female ratio.
+4. The Top 5 and Bottom 5 agencies involved in encounters.
+5. Additionally, I incorporated interactive options to allow users to explore month-wise trends and analyze state-specific insights.
+
+Given the public outrage claiming that law enforcement disproportionately targets Black, Hispanic, and Arab-American individuals in fatal encounters, I conducted a data-driven investigation to assess the validity of these claims. Using the untampered police dataset, I objectively analyzed whether racial bias was evident in the encounters.
+
+To effectively communicate these findings, I utilized a variety of visualizations, ensuring clarity in how different parameters influenced the outcomes. Finally, I ranked states based on custodial deaths and identified the top five states with the highest numbers in each category, providing a transparent and fact-based perspective on the issue.
